@@ -1,0 +1,49 @@
+a{
+  color: blue;
+ cursor: url("http://cur.cursors-4u.net/cursors/images2/cur116.png"), auto;
+}
+
+header {
+ text-align: center;
+ background: url("https://thumbs.dreamstime.com/z/fond-d-oranges-32612075.jpg");
+ background-size: cover;
+  cursor: url("http://cur.cursors-4u.net/cursors/images2/cur116.png"), auto;
+ }
+
+ul{
+ padding: 10px;
+}
+
+li {
+ display: inline;
+ padding: 0px 10px 0px 10px;
+ }
+
+h1{
+  color: blue;
+}
+
+
+article {
+  display: inline-block;
+  color:blue;
+  width: 30%;
+  margin: 0% 10% 10% 10%;
+  cursor: url("http://cur.cursors-4u.net/cursors/images2/cur116.png"), auto;
+}
+
+p{
+    padding-top: 20%;
+}
+
+body{
+  background: url(http://backgrounds4k.net/wp-content/uploads/2016/05/Oranges-wallpaper-ultra-hd.jpg);
+   cursor: url("http://cur.cursors-4u.net/cursors/images2/cur116.png"), auto;
+
+}
+
+a:hover{
+  color:red;
+  font-size: 150%;
+}
+
